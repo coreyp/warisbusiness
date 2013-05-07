@@ -1,0 +1,6 @@
+[submodule "jekyll-reposter"]
+	path = jekyll-reposter
+	url = git://github.com/coreyp/jekyll-reposter.git
+[submodule "plugins/jekyll-reposter"]
+	path = plugins/jekyll-reposter
+	url = git://github.com/coreyp/jekyll-reposter.git
