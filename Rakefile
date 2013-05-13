@@ -18,7 +18,7 @@ deploy_branch  = "gh-pages"
 ## -- Misc Configs -- ##
 
 public_dir      = "public/warisbusiness"    # compiled site directory
-source_dir      = ".themes/classic/source"    # source file directory
+source_dir      = "source"    # source file directory
 blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
