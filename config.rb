@@ -11,8 +11,8 @@ css_dir = "public/warisbusiness/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
-images_dir = ".themes/classic/source/images" # "source/images"
-fonts_dir = ".themes/classic/source/fonts" # "source/fonts"
+images_dir = "source/images" # ".themes/classic/source/images"
+fonts_dir = "source/images" # "source/fonts"
 
 line_comments = false
 output_style = :compressed
