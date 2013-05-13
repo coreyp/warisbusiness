@@ -1,3 +1,5 @@
+require 'sass-globbing'
+
 # Require any additional compass plugins here.
 project_type = :stand_alone
 
@@ -9,8 +11,8 @@ css_dir = "public/warisbusiness/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
-images_dir = "source/images"
-fonts_dir = "source/fonts"
+images_dir = ".themes/classic/source/images" # "source/images"
+fonts_dir = ".themes/classic/source/fonts" # "source/fonts"
 
 line_comments = false
 output_style = :compressed
