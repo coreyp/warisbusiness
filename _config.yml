@@ -7,7 +7,7 @@ exclude: ["CNAME", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "aggro.rb
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://coreyp.github.com/warisbusiness
 title: war is business
 subtitle: 
 author: Corey Pein
