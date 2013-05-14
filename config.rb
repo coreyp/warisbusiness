@@ -5,8 +5,8 @@ project_type = :stand_alone
 
 # Publishing paths
 http_path = "/warisbusiness"
-http_images_path = "/warisbusiness/images"
-http_fonts_path = "/warisbusiness/fonts"
+http_images_path = "public/warisbusiness/images"
+http_fonts_path = "public/warisbusiness/fonts"
 css_dir = "public/warisbusiness/stylesheets"
 
 # Local development paths
