@@ -59,7 +59,8 @@ Backtrace:
 /Users/Monkey/.rvm/gems/ruby-1.9.3-p362@warisbusiness/bin/ruby_noexec_wrapper:14:in `eval'
 /Users/Monkey/.rvm/gems/ruby-1.9.3-p362@warisbusiness/bin/ruby_noexec_wrapper:14:in `<main>'
 */
-body:before {
+/* body:before {
   white-space: pre;
   font-family: monospace;
   content: "Syntax error: Undefined variable: \"$nav-bg\".\A         on line 3 of /Users/Monkey/Sites/warisbusiness/sass/custom/navigation.scss\A \A 1: /Users/Monkey/Sites/warisbusiness/sass/custom/navigation.scss"; }
+*/
