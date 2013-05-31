@@ -1,0 +1,16 @@
+---
+author: Corey Pein
+comments: true
+date: 2010-12-20 16:30:25+00:00
+layout: post
+slug: gracias
+title: Gracias 
+wordpress_id: 1635
+categories:
+- War Is Business Business
+tags:
+- meta
+---
+
+Last week, War Is Business had an item picked up by Wired magazine's [Danger Room](http://www.wired.com/dangerroom/2010/12/will-blackwater-go-vegan-after-sale-to-hippy-firm/) blog. Even better, the site [got a really nice write-up](http://motherjones.com/mojo/2010/12/war-is-business-new-watchdog-blog) at the website of Mother Jones magazine. Thanks to them for the recognition, thanks to the readers who've aided our research efforts through the [DIY WIB form](http://www.warisbusiness.com/diy), and thanks especially to all those who've [donated](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K7AVMBFDT96JA).
+

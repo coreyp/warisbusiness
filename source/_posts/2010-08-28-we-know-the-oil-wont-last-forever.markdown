@@ -1,0 +1,1024 @@
+---
+author: Corey Pein
+comments: true
+date: 2010-08-28 13:37:56+00:00
+layout: post
+slug: we-know-the-oil-wont-last-forever
+title: ‘We Know The Oil Won’t Last Forever’ 
+wordpress_id: 94
+categories:
+- News
+- Original Reporting
+organizations:
+- al taif technical services
+- global sierra enterprise
+- mubadala
+people:
+- joe minor
+- sheikh khalifa bin zayed al nahyan
+places:
+- abu dhabi
+- afghanistan
+- mexico
+- usa
+products:
+- construction
+- oil
+tags:
+- all your base
+- opportunity knocks
+---
+
+![](/images/2010/08/Sheikh-Mohamed-Bin-Zayed-Al-Nahyan-150x150.jpg)The US military's plans for several new bases in Afghanistan not only belie the announced timetable for withdrawal—they represent a big business opportunity, with some [$1.3 billion](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/22/AR2010082201670.html) in anticipated construction costs.
+
+The contract for one base alone, a "training center" for the Afghan National Army in Mazar-e-Sharif, may be worth [$100 million](https://www.fbo.gov/index?s=opportunity&mode=form&id=a906d0295ba30b91697306bfd92c646b&tab=core&_cview=1). Companies from around the world are lining up to get a piece.
+
+The list of interested vendors includes the Crown Prince of Abu Dhabi, pictured. His company, [Mubadala](http://www.mubadala.ae/en/category/about-mubadala/board-of-directors/), has a "military outsourcing" [division](http://www.mubadala.ae/en/about-mubadala/investments/al-taif-technical-services.html).
+
+<!-- more -->
+
+"We know the oil won't last forever. Thats why we need to diversify our economy," Mubadala's cheesy promotional [video](http://www.mubadala.ae/en/about-mubadala/our-story.html) explains.
+
+Diversification... right. When the oil runs out, fortified bunkers will be in high demand.
+
+As of August 25, at least 97 companies had expressed interest in the Mazar-e-Sharif base construction contract. Of those, 54 are based in the US. Another 25 are based in Afghanistan, 10 in Turkey and the rest from all over, including 2 in Dubai, 1 in Iraq—_Back In Business! Under New Ownership!_—and, curiously, 1 in Mexico.
+
+The Mexican company, Global Sierra Enterprise, lists one Joe Minor as a contact, along with a secondary phone number in San Antonio, Texas.
+
+Here's the full list:
+
+
+
+
+
+
+
+
+STATE CORPS LIMITED
+
+
+KABUL KA 24000 AFG
+
+
+
+
+
+
+AMERICAN SYSTEMS CORPORATION
+
+
+CHANTILLY VA 201512272 USA
+
+
+
+
+
+
+MAYCO DEVELOPERS LLC
+
+
+LOS ANGELES CA 900485518 USA
+
+
+
+
+
+
+SANBERG GROUP, INC., THE
+
+
+WHITTIER CA 906042100 USA
+
+
+
+
+
+
+VANGUARD INTERNATIONAL, INC.
+
+
+FLORA MS 390719556 USA
+
+
+
+
+
+
+NEU FENCE
+
+
+BURNET TX 786113059 USA
+
+
+
+
+
+
+JAWED AHMAD ZAI CONSTRUCTION COMPANY
+
+
+KABUL 1 0000 AF
+
+
+
+
+
+
+77 CONSTRUCTION CONTRACTING & TRADING COMPANY
+
+
+KABUL AFG
+
+
+
+
+
+
+ATTAYEE LOGISTICS LIMITED
+
+
+KABUL KA 14 AFG
+
+
+
+
+
+
+SB INTERNATIONAL
+
+
+DALLAS TX 752342710 USA
+
+
+
+
+
+
+ORTASARK MADENCILIK INSAAT TAAHHUT SANAYI VE TICARET LTD
+
+
+ADANA TUR
+
+
+
+
+
+
+KAYA INSAAT ITHALAT IHRACAT TAAHHUT TURIZM DOGALGAZ TICARET LTD STI
+
+
+ANKARA 06540 TUR
+
+
+
+
+
+
+RBGROUP
+
+
+ANKARA 1 06610 TR
+
+
+
+
+
+
+PAKTIN CONSTRUCTION COMPANY
+
+
+KABUL KA 26000 AFG
+
+
+
+
+
+
+MCW SOLUTIONS
+
+
+CRAIGVILLE IN 46731 US
+
+
+
+
+
+
+LA FORCE, INC.
+
+
+GREEN BAY WI 543031863 USA
+
+
+
+
+
+
+JIS TECHNOLOGIES LLC
+
+
+RICHMOND VA 232204268 USA
+
+
+
+
+
+
+FRONTIER STEEL BUILDINGS CORP
+
+
+LITTLETON CO 801242747 USA
+
+
+
+
+
+
+MJC BUSINESS GROUP
+
+
+SLAUGHTER LA 707773004 USA
+
+
+
+
+
+
+LOTUS INSAAT SAN. VE TIC. LTD STI
+
+
+ANKARA 1 06400 TR
+
+
+
+
+
+
+AL TAIF TECHNICAL SERVICES
+
+
+ABU DHABI 1 000000 US
+
+
+
+
+
+
+HACC
+
+
+MAZAR E SHARIF 1 0 AF
+
+
+
+
+
+
+ENGICON USA, INC.
+
+
+MCLEAN VA 221012907 USA
+
+
+
+
+
+
+NORTH AMERICAN TESTING, INC.
+
+
+COLORADO SPRINGS CO 809068267 USA
+
+
+
+
+
+
+BILTEK ORG.MUH.BAS.EMLAK.REK.TUR.INSAAT.&TIC.LTD.STI.
+
+
+ANKARA AN 06520 TUR
+
+
+
+
+
+
+ARROW GENERAL SUPPLY AND SERVICES COMPANY
+
+
+KABUL AFG
+
+
+
+
+
+
+FOLKMAN INC.
+
+
+GREEN BAY WI 543045603 USA
+
+
+
+
+
+
+UNIVERSAL SAFETY RESPONSE, INC.
+
+
+FRANKLIN TN 370678251 USA
+
+
+
+
+
+
+AMERICAN GENERAL TRADING AND CONTRACTING CO
+
+
+KUWAIT KWT
+
+
+
+
+
+
+FINANCIAL FORENSIC & COMPLIANCE, LLC
+
+
+CORAL GABLES FL 33134 US
+
+
+
+
+
+
+DAIMLER CONSTRUCTION INC.
+
+
+LAS VEGAS NV 891105318 USA
+
+
+
+
+
+
+SUPREME FOODSERVICE GMBH
+
+
+ZIEGELBRUECKE 8866 CHE
+
+
+
+
+
+
+HAMILTON EMERGENCY RESOURCES & SERVICES
+
+
+DAYTON NV 894030000 USA
+
+
+
+
+
+
+ROAD AND ROOF CONSTRUCTION COMPANY
+
+
+KABUL KA AFG
+
+
+
+
+
+
+PATRIOT SERVICES CORPORATION
+
+
+SHAWNEE OK 748049033 USA
+
+
+
+
+
+
+METAL CONSTRUCTION RESOURCE, LLC
+
+
+JOHNSTOWN CO 805347845 USA
+
+
+
+
+
+
+CRITICAL SOLUTIONS INC
+
+
+PROVO UT 846045223 USA
+
+
+
+
+
+
+USA TANK SALES & ERECTION COMPANY INC.
+
+
+SENECA MO 648650506 USA
+
+
+
+
+
+
+ROSSON PIPELINE FZCO
+
+
+DUBAI 1 00000-0000 AE
+
+
+
+
+
+
+DESIGNCORE
+
+
+KABUL 1 0093 AF
+
+
+
+
+
+
+ARAO - AFGHANISTAN REHABILITATION AND ARCHETICTURAL ORGANIZE COMPANY
+
+
+HERAT HE AFG
+
+
+
+
+
+
+JENKINS FLORAL
+
+
+GRAND JUNCTION CO 815033198 USA
+
+
+
+
+
+
+BAY CITY METALS OF FLORIDA, INC.
+
+
+CLEARWATER FL 337565963 USA
+
+
+
+
+
+
+KANOOS GROUP OF COMPANIES
+
+
+COCHIN KE 682 011 IND
+
+
+
+
+
+
+ROSS TECHNOLOGY CORPORATION
+
+
+LEOLA PA 175409799 USA
+
+
+
+
+
+
+MERCURY DEVELOPMENT
+
+
+KABUL AFG
+
+
+
+
+
+
+HAMEED KOCHAI CONSTRUCTION COMPANY - HKCC
+
+
+KABUL 1 0093 AF
+
+
+
+
+
+
+GLOBAL DEFENCES SOLUTIONS LLC
+
+
+YARDLEY PA 190676412 USA
+
+
+
+
+
+
+PROCON AFGHANISTAN CONSTRUCTION LTD
+
+
+KABUL KA 25000 AFG
+
+
+
+
+
+
+LARA INTERNATIONAL LIMITED COMPANY
+
+
+DUBAI ARE
+
+
+
+
+
+
+OGMAY ERA-BUILDERS
+
+
+KABUL AFG
+
+
+
+
+
+
+NAWEED FARDEEN GROUP OF COMPANIES LMT
+
+
+KABUL 93000 AFG
+
+
+
+
+
+
+ABADANI ENGINEERING CONSTRUCTION COMPANY
+
+
+BALKH 1 99999 AF
+
+
+
+
+
+
+PINNACLE GLOBAL RESOURCES INC
+
+
+CIBOLO TX 781083289 USA
+
+
+
+
+
+
+UNIVERSAL FABRIC STRUCTURES, INC.
+
+
+QUAKERTOWN PA 189513781 USA
+
+
+
+
+
+
+CORETEK CONSTRUCTION SERVICES
+
+
+HOPATCONG NJ 078431901 USA
+
+
+
+
+
+
+GLOBAL SIERRA ENTERPRISE, S. DE R.L. DE C.V.
+
+
+CIUDAD ACUNA CO 26270 MEX
+
+
+
+
+
+
+HOPE FOR REHABILITATION OF AFGHANISTAN, INC.
+
+
+FREMONT CA 945363420 USA
+
+
+
+
+
+
+CHERYL MOORE ENTERPRISES INC.
+
+
+WATERFORD MI 483283134 USA
+
+
+
+
+
+
+UNITED INDUSTRIES GROUP, INC.
+
+
+NEWPORT BEACH CA 926606420 USA
+
+
+
+
+
+
+ALYAN CORPORATION, INC.
+
+
+VIENNA VA 221825600 USA
+
+
+
+
+
+
+NAJMAN ATA LOGISTICS & TRADING CO. LTD
+
+
+KABUL 1 24000 AF
+
+
+
+
+
+
+SHAFI NASIMI CONSTRUCTION & LOGISTICS COMPANY
+
+
+KABUL 1 24000 AF
+
+
+
+
+
+
+NAJAH TALLAT CONSTRUCTION & ROAD BUILDING COMPANY
+
+
+KABUL 1 25000 AF
+
+
+
+
+
+
+AQUAMARINE GROUP
+
+
+KABUL KA 23000 AFG
+
+
+
+
+
+
+NOORZAD CONSULTING L.L.C.
+
+
+SOUTH RIDING VA 201524480 USA
+
+
+
+
+
+
+WORLDWIDE STRUCTURES LLC
+
+
+NAPA CA 945583124 USA
+
+
+
+
+
+
+77 CONSTRUCTION & TRADING COMPANY
+
+
+BAGHDAD IRQ
+
+
+
+
+
+
+POWER READY, LLC
+
+
+TULSA OK 741451117 USA
+
+
+
+
+
+
+EMTA INSAAT TAAHUT VE TICARET A.S.
+
+
+ANKARA 06800 TUR
+
+
+
+
+
+
+PANDE PANE, LLC
+
+
+MIAMI FL 331783118 USA
+
+
+
+
+
+
+LAKESHORE ENGINEERING SERVICES, INC.
+
+
+DETROIT MI 482023160 USA
+
+
+
+
+
+
+IKE & ASSOCIATES, INC.
+
+
+CONCORDIA KS 669015214 USA
+
+
+
+
+
+
+PIEDMONT CONTRACTORS
+
+
+CHAPARRAL NM 880817456 USA
+
+
+
+
+
+
+SUER NAKLIYAT LOJISTIK HIZMETLERI TURIZM INSAAT SAN V
+
+
+CANKAYA,IZMIR 35220 TUR
+
+
+
+
+
+
+FORTE FOX
+
+
+SAN DIEGO CA 921081324 USA
+
+
+
+
+
+
+UNITED UNIVERSAL GROUP
+
+
+KABUL 1 0000 AF
+
+
+
+
+
+
+THE MICALCO GROUP
+
+
+SCARBOROUGH TO TTO
+
+
+
+
+
+
+COMINFO INC
+
+
+ALEXANDRIA VA 223043693 USA
+
+
+
+
+
+
+STANLEY SECURITY SOLUTIONS, INC.
+
+
+INDIANAPOLIS IN 462502701 USA
+
+
+
+
+
+
+KAREN'S SEPTIC & SEWER COMPANY
+
+
+WRIGHTWOOD CA 923972458 USA
+
+
+
+
+
+
+SADATH BUSINESS GROUP PTY LTD
+
+
+KABUL AFG
+
+
+
+
+
+
+GLOBAL WIDE ENTERPRISE
+
+
+HAYWARD CA 94545 US
+
+
+
+
+
+
+SAYAR ENTERPRISES, INC.
+
+
+JACKSONVILLE FL 322168042 USA
+
+
+
+
+
+
+CONTINGENCY INTERNATIONAL
+
+
+MIRAMAR FL 330295535 USA
+
+
+
+
+
+
+BURNS ENGINEERING INC
+
+
+PHILADELPHIA PA 191032964 USA
+
+
+
+
+
+
+GULFHOMEBASE CONSTRUCTION COMPANY
+
+
+KABUL 1 10 AF
+
+
+
+
+
+
+KULAK INSAAT TICARET VE SANAYI A S
+
+
+ADANA 01120 TUR
+
+
+
+
+
+
+SGM ENGINEERING, INC.
+
+
+ORLANDO FL 328146652 USA
+
+
+
+
+
+
+VMI GROUP, THE
+
+
+MIAMI BEACH FL 331396510 USA
+
+
+
+
+
+
+SIMCON CONSTRUCTION, INC.
+
+
+CLERMONT FL 347112440 USA
+
+
+
+
+
+
+UNITED THREE INCORPORATION
+
+
+KABUL 1 72253 AF
+
+
+
+
+
+
+AMERICAN GREEN WORKS INC.
+
+
+MELBOURNE FL 329349297 USA
+
+
+
+
+
+
+WILLIAMSON MANAGEMENT GROUP, INC.
+
+
+OCILLA GA 317742009 USA
+
+
+
+
+
+
+RAFI YAQUBI CONSTRUCTION COMPANY
+
+
+KABUL 1 0093 AF
+
+
+
+
+
+
+UTM ULUSLARARASI TICARET MUHENDISLIK LTD STI
+
+
+ANKARA 06550 TUR
+
+
+
+
+
+
+MOHAEID LOGISTICS CONSTURCTION GROUP
+
+
+KABUL 25000 AFG
+
+
+
+
